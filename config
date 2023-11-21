@@ -1,0 +1,10 @@
+left: n
+left: Left
+down: e
+down: Down
+up: i
+up: Up
+right: o
+right: Right
+
+grid_keys: n i e o
